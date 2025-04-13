@@ -5,6 +5,21 @@
 Este é um aplicativo mobile de **previsão do tempo** desenvolvido com **React Native**, **Expo** e **TypeScript**, usando **expo-router** para navegação entre telas. O app consome dados da **API OpenWeatherMap** para exibir a previsão atual de qualquer cidade do mundo.
 
 ---
+# Tecnologias Utilizadas
+React Native Framework para desenvolvimento de apps mobile com JavaScript/TypeScript
+
+Expo – Ferramenta que facilita o desenvolvimento com React Native, fornecendo recursos prontos como build, debug e emulador
+
+TypeScript Superset do JavaScript que adiciona tipagem estática ao código
+
+expo-router Sistema de navegação baseado em rotas de arquivos, facilita a criação de navegação com tabs, drawer e modais
+
+OpenWeatherMap API API pública utilizada para buscar informações climáticas de cidades do mundo
+
+React Navigation (via expo-router) Utilizado para navegação por abas (tabs) e menu lateral (drawer)
+
+Componentes personalizados O app utiliza botões, containers e ícones customizados criados em arquivos próprios dentro da pasta components
+
 
 ## Funcionalidades
 
