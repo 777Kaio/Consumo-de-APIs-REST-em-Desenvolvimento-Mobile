@@ -93,5 +93,16 @@ Arquivos com definições de tipos para TypeScript
 global.css
 Usado em alguns projetos para estilos globais (não é muito comum em React Native)
 
+# Requisitos para fazer rodar
+Entrar no CMD
 
+Entrar na pasta onde você abaixou 
+
+Colocar o nome e dar enter 
+
+Ao achar a pasta tem que fazer o seguinte código, npm i
+
+Quando fizer este código e instalar o comando npm i
+
+Tem que executar o comando de npm run web para ver como está o app
 
